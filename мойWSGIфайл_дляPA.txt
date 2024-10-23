@@ -1,4 +1,5 @@
 #настройки WSGI файла для pythonAnywhere
+#все перекласти на українську!
 
 import os
 import sys
